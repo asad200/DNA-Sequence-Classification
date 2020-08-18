@@ -1,8 +1,8 @@
 # DNA-Sequence-Classification
 Classification of E. Coli bacteria DNA to identify if the DNA sequence is "promoter" or "non-promoter".
 
-### Classifieres Use
-In this project following classifieres are compared.
+### Classifieres Used
+In this project the following classifieres are compared.
 1. SVC Linear
 2. SVC RBF
 3. SVC Simoid
@@ -13,6 +13,9 @@ In this project following classifieres are compared.
 8. Neural Net
 9. AdaBoost
 10. Naive Bayes
+
+### Conclusion
+Out of these classifieres the Support Vector Classifier with linear kernal gives the best results. 
 
 ### Data Attribute Information:
 
