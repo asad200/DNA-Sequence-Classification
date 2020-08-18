@@ -1,6 +1,19 @@
 # DNA-Sequence-Classification
 Classification of E. Coli bacteria DNA to identify if the DNA sequence is "promoter" or "non-promoter".
 
+### Classifieres Use
+In this project following classifieres are compared.
+1. SVC Linear
+2. SVC RBF
+3. SVC Simoid
+4. K-Nearest Neighbours
+5. Decision Tree
+6. Gaussian Process
+7. Random Forest
+8. Neural Net
+9. AdaBoost
+10. Naive Bayes
+
 ### Data Attribute Information:
 
 1. One of {+/-}, indicating the class ("+" = promoter).
@@ -10,10 +23,8 @@ Classification of E. Coli bacteria DNA to identify if the DNA sequence is "promo
 ### Relevant Papers:
 
 Harley, C. and Reynolds, R. 1987. "Analysis of E. Coli Promoter Sequences." Nucleic Acids Research, 15:2343-2361.
-[Web Link]
 
 Towell, G., Shavlik, J. and Noordewier, M. 1990. "Refinement of Approximate Domain Theories by Knowledge-Based Artificial Neural Networks." In Proceedings of the Eighth National Conference on Artificial Intelligence (AAAI-90).
-[Web Link] 
 
 ### Source:
 
