@@ -1,5 +1,5 @@
 # DNA-Sequence-Classification
-Classification of E. Coli bacteria DNA to identify if the DNA sequence is "promoter" or "non-promoter".
+Classification of E. Coli bacteria DNA to identify if the DNA sequence is "promoter" or "non-promoter". Multiple classifieres are used, and important accuracy metrics are compared to identfy the best classifier for this dataset.
 
 ### Classifieres Used
 In this project the following classifieres are compared.
@@ -15,7 +15,7 @@ In this project the following classifieres are compared.
 10. Naive Bayes
 
 ### Conclusion
-Out of these classifieres the Support Vector Classifier with linear kernal gives the best results. 
+Out of these classifieres the Support Vector Classifier with linear kernal gives the best results, with Multi-layer Perceptron also showing the decent results. These models can be refined to further improve the accuracy.
 
 ### Data Attribute Information:
 
